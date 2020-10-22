@@ -1,2 +1,2 @@
 # Library
-Simple and functional library
+Simple and functional library WebApi .NetCore
